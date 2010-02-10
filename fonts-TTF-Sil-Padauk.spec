@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma birmańskiego
 Name:		fonts-TTF-Sil-Padauk
 Version:	2.6.1
 Release:	1
-License:	OFL, distributable
+License:	SIL OFL, distributable
 Group:		Fonts
 # Source0Download: http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=MH_Padauk_tarball&filename=ttf-sil-padauk-2.6.1.tar.gz
 Source0:	ttf-sil-padauk-%{version}.tar.gz
